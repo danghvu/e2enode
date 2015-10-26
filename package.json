@@ -8,9 +8,6 @@
       "type": "git",
       "url": "git://github.com/danghvu/e2enode.git"
   },
-  "scripts": {
-      "preinstall": "git submodule update -i -r"
-  },
   "author": "Hoang-Vu Dang <danghvu@gmail.com>",
   "license": "BSD-2-Clause"
 }
