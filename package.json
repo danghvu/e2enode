@@ -1,0 +1,13 @@
+{
+  "name": "e2enode",
+  "version": "0.0.1",
+  "description": "A wrapper for using Google e2e as a nodejs library",
+  "main": "index.js",
+  "files": ["deps.js", "lib", "src"],
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/danghvu/e2enode.git"
+  },
+  "author": "Hoang-Vu Dang <danghvu@gmail.com>",
+  "license": "BSD-2-Clause"
+}
