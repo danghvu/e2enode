@@ -4,6 +4,9 @@
   "description": "A wrapper for using Google e2e as a nodejs library",
   "main": "index.js",
   "files": ["deps.js", "lib", "src"],
+  "scripts": {
+      "prepublish": "./install_lib.sh"
+  },
   "repository": {
       "type": "git",
       "url": "git://github.com/danghvu/e2enode.git"
