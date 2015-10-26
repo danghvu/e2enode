@@ -1,0 +1,8 @@
+[submodule "lib/closure-library"]
+    path=lib/closure-library
+    url=https://github.com/google/closure-library.git
+
+[submodule "lib/zlib.js"]
+    path=lib/zlib.js
+    url=https://github.com/imaya/zlib.js
+
