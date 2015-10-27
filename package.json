@@ -5,7 +5,7 @@
   "main": "index.js",
   "files": ["install_lib.sh", "deps.js", "lib", "src"],
   "scripts": {
-      "prepublish": "./install_lib.sh || true"
+      "preinstall": "./install_lib.sh || true"
   },
   "repository": {
       "type": "git",
