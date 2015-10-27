@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "A wrapper for using Google e2e as a nodejs library",
   "main": "index.js",
-  "files": ["deps.js", "lib", "src"],
+  "files": ["install_lib.sh", "deps.js", "lib", "src"],
   "scripts": {
-      "prepublish": "./install_lib.sh"
+      "prepublish": "./install_lib.sh || true"
   },
   "repository": {
       "type": "git",
